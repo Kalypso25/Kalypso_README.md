@@ -1,5 +1,6 @@
 # Kalypso_README.md
 
+                      HI THERE 👋 
 🛠️ Currently Working On:
 
 🐍 Python-based projects to build a strong foundation
